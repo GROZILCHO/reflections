@@ -7,7 +7,7 @@ A: Git creates the necessary tracking files and folders for the commits. Without
 Q2: How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-A:
+A: 
 
 
 

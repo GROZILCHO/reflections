@@ -21,7 +21,7 @@ A:
 Q4: What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-A:
+A: Per logical change, you can add the files that have been modified for the change. This helps keep track of the different files and focused on one logical change.
 
 
 

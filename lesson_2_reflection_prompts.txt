@@ -26,7 +26,7 @@ A: Helpful situations are adding new features or experimenting with something. B
 
 Q5: How do the diagrams help you visualize the branch structure?
 
-A:
+A: The diagrams are using to understand the relationships between the different branches and master. It will come in handy when merging one or multiple branches into master.
 
 
 

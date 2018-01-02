@@ -1,5 +1,7 @@
 Q1: What happens when you initialize a repository? Why do you need to do it?
 
+
+
 A: Git creates the necessary tracking files and folders for the commits. Without these files, Git does not know what files and folders are under version control. And it is easy to go backwards to previous versions of the project.
 
 

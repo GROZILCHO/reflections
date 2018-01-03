@@ -1,0 +1,39 @@
+Q1: What happens when you initialize a repository? Why do you need to do it?
+
+A: Git creates the necessary tracking files and folders for the commits. Without these files, Git does not know what files and folders are under version control.
+
+
+Q2: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A:Staging area is a temporary save that will become the commit. The staging area allows the selection of specific files to be added to commit to allow for one logical change to occur.
+
+
+
+Q3: How can you use the staging area to make sure you have one commit per logical change?
+
+A: Per logical change, you can add the files that have been modified for the change. This helps keep track of the different files and focused on one logical change.
+
+
+
+Q4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+
+A: Helpful situations are adding new features or experimenting with something. Branches are useful by keeping the experimental and new features out of the main stable code until they are ready to be merged back in.
+
+
+
+Q5: How do the diagrams help you visualize the branch structure?
+
+A: The diagrams are using to understand the relationships between the different branches and master. It will come in handy when merging one or multiple branches into master.
+
+
+
+Q6: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A: The result of the two branches merging is that the master has the new coin feature in addition to the original game. The coin branch was brought back into the master as it is a new feature. Also any time we can checkout the easy-mode branch in the time of commit.
+
+
+
+Q7: What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+A:

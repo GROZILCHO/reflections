@@ -36,4 +36,4 @@ A: The result of the two branches merging is that the master has the new coin fe
 
 Q7: What are the pros and cons of Git's automatic merging vs. always doing merges manually?
 
-A:
+A: Pros are that the automatic merging saves time if it detects there are no conflicts. Cons are that it will detect a conflict and the user has to go through the code manually fixing the conflict.
